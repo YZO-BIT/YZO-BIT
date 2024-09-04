@@ -3,7 +3,7 @@
 ###
 
 <h3 align="center">A passionate web developer from Dehradun, Uttarakhand...</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://raw.githubusercontent.com/ppat94/ppat94/master/assets/cool.gif)">
 
 ###
 
