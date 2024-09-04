@@ -6,7 +6,7 @@
 
 ###
 
-<img width="400" img align="right" img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/cool.gif" alt="Me with no error" >
+<img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/cool.gif" img width="400" img align="right"  alt="Me with no error" >
 
 <p align="left">•📚 I’m currently pursuing my B.Tech degree</p>
 
