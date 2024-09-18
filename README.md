@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" img src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/cool.gif" img width="400"   alt="Me with no error" >
+<img align="right" img src="[https://raw.githubusercontent.com/ppat94/ppat94/master/assets/cool.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhqcTFyd2NzdjUzdDJ0MHB2bng5NHJwYjczcXRkbWZ5a3U4ZW52dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)" img width="400"   alt="Me with no error" >
 
 <p align="left">•📚 I’m currently pursuing my B.Tech degree</p>
 
