@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" img src="[https://raw.githubusercontent.com/ppat94/ppat94/master/assets/cool.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhqcTFyd2NzdjUzdDJ0MHB2bng5NHJwYjczcXRkbWZ5a3U4ZW52dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)" img width="400"   alt="Me with no error" >
+<img align="right" img src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>" img width="400"   alt="Me with no error" >
 
 <p align="left">•📚 I’m currently pursuing my B.Tech degree</p>
 
