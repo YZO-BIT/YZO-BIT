@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" img src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>" img width="400"   alt="Me with no error" >
+<img align="right" img src="<div style="<iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>">via GIPHY</a></p>" img width="400"   alt="Me with no error" >
 
 <p align="left">•📚 I’m currently pursuing my B.Tech degree</p>
 
