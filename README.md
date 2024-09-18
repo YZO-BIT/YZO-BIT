@@ -6,10 +6,7 @@
 
 ###
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+<img align="right" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="400" alt="Me with no error">
 
 ###
 
