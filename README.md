@@ -66,6 +66,3 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo" />
 </div>
-
-###
-
