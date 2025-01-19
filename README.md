@@ -69,9 +69,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=NobiDevX&theme=dark" alt="GitHub Streak" /></a>
