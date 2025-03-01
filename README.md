@@ -73,8 +73,8 @@
   </a>
 </p>
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=NobiDevX&show_icons=true&locale=en&layout=compact" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NobiDevX&show_icons=true&locale=en&layout=compact" alt="Top languages for NobiDevX" width="400" height="300" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=YZO-BIT&show_icons=true&locale=en&layout=compact" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YZO-BIT&show_icons=true&locale=en&layout=compact" alt="Top languages for NobiDevX" width="400" height="300" />
   </a>
 </div>
 
