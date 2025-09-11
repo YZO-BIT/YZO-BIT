@@ -71,10 +71,18 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="55" height="40" />
   </a>
+  
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React logo" width="55" height="40" />
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI logo" width="55" height="40" />
 </p>
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=YZO-BIT&show_icons=true&locale=en&layout=compact" target="_blank" rel="noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YZO-BIT&show_icons=true&locale=en&layout=compact" alt="Top languages for NobiDevX" width="400" height="300" />
   </a>
 </div>
+
 
