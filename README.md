@@ -50,13 +50,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YZO-BIT&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YZO-BIT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YZO-BIT&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YZO-BIT&theme=dark&hide_border=false&layout=compact)
 
-<div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=YZO-BIT&show_icons=true&locale=en&layout=compact" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YZO-BIT&show_icons=true&locale=en&layout=compact" alt="Top languages for NobiDevX" width="400" height="300" />
-  </a>
-</div>
+
 
 
