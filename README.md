@@ -33,12 +33,6 @@
   <a href="https://x.com/yash_gudiyal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo" />
   </a>
-  <a href="https://codeforces.com/profile/_shinobi_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="55" height="40" alt="Codeforces logo" />
-</a>
-<a href="https://www.leetcode.com/yash_gudiyal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="55" height="40" alt="LeetCode logo" />
-</a>
 </div>
 
 ###
