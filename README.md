@@ -51,7 +51,7 @@
 # 📊 GitHub Stats:
 
 ### 🔥 Contribution Activity
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YZO-BIT&theme=dark-dimmed&area=true&hide_border=true)](https://github.com/YZO-BIT)
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YZO-BIT&theme=github-dark&area=true&hide_border=true)](https://github.com/YZO-BIT)
 
 ### 📈 Stats & Languages
 <div align="center">
