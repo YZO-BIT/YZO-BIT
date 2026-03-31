@@ -14,19 +14,11 @@
 
 ###
 
-<p align="left">•🌱 I’m currently learning Full Stack Web Development</p>
+<p align="left">•🌱 I’m Full Stack Developer</p>
 
 ###
 
-<h3 align="left">•💬 Ask Me About:</h3>
-
-###
-
-<p align="left">• 🛠️ My experience with HTML, CSS, JavaScript, C++, and C <br><br>• 📖 Beginner-friendly projects and resources</p>
-
-###
-
-<p align="left">• 👨‍💻 All of my projects are available at:- <a href="https://github.com/NobiDevX" target="_blank">GitHub</a></p>
+<p align="left">• 👨‍💻 All of my projects are available at:- <a href="https://github.com/YZO-BIT/YZO-BIT" target="_blank">GitHub</a></p>
 
 ###
 
