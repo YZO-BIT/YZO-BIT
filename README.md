@@ -61,11 +61,11 @@
 
 ### 💻 Competitive Programming
 <div align="center">
-  <a href="https://www.leetcode.com/yash_gudiyal" target="_blank">
-    <img alt="LeetCode Stats" src="https://leetcode-stats-six.vercel.app/api?username=yash_gudiyal&theme=dark" width="48%" />
+  <a href="https://leetcode.com/u/YZO-BIT/" target="_blank">
+    <img alt="LeetCode Stats" src="https://leetcode-stats-six.vercel.app/api?username=YZO-BIT&theme=dark" width="48%" />
   </a>
-  <a href="https://codeforces.com/profile/_shinobi_" target="_blank">
-    <img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/v1/profile/_shinobi_?cardType=level&theme=dark" width="48%" />
+  <a href="https://codeforces.com/profile/_Shinobi_" target="_blank">
+    <img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/v1/profile/_Shinobi_?cardType=level&theme=dark" width="48%" />
   </a>
 </div>
 
