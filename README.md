@@ -59,14 +59,12 @@
   <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YZO-BIT&theme=dark" width="48%" />
 </div>
 
-### 💻 Competitive Programming
+### 💻 Competitive Programming & Achievements
 <div align="center">
-  <a href="https://leetcode.com/u/YZO-BIT/" target="_blank">
-    <img alt="LeetCode Stats" src="https://leetcode-stats-six.vercel.app/api?username=YZO-BIT&theme=dark" width="48%" />
-  </a>
-  <a href="https://codeforces.com/profile/_Shinobi_" target="_blank">
-    <img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/v1/profile/_Shinobi_?cardType=level&theme=dark" width="48%" />
-  </a>
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/YZO-BIT/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F1815?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/_Shinobi_)
+  
 </div>
 
 ### 🏆 Repos Per Language
